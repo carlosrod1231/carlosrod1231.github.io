@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Rodriguez"
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   bio              : "CS Student at the University of Miami \n TA for CSC120: Computer Programming I"
   location         : "Miami, United States"
   employer         :
