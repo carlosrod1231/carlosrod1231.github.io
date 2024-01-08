@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Carlos Rodriguez"
-  avatar           : "retrowave_mountain.jpg"
+  avatar           : "profile.png"
   bio              : "CS Student at the University of Miami \n TA for CSC120: Computer Programming I"
   location         : "Miami, United States"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://carlosrod1231.github.io"
+  github           : "carlosrod1231"
   google_plus      :
   keybase          :
   instagram        : "https://www.instagram.com/_carlos__rod_/"
