@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Carlos Rodriguez"
   avatar           : "headshot.png"
-  bio              : "CS Student at the University of Miami \n TA for CSC120: Computer Programming I"
+  bio              : ""#"CS Student at the University of Miami | TA for CSC120: Computer Programming I"
   location         : "Miami, United States"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :  #https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            : "cer217@miami.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,7 +99,7 @@ author:
   github           : "carlosrod1231"
   google_plus      :
   keybase          :
-  instagram        : "https://www.instagram.com/_carlos__rod_/"
+  instagram        : "_carlos__rod_"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
