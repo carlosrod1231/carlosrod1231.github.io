@@ -1,6 +1,6 @@
 ---
 title: "Personal Website"
-excerpt: "A personal website that was designed as a personal project. <br/><img src='/images/500x300.png'>"
+excerpt: "A personal website that was designed as a personal project. (This one!)" 
 collection: portfolio
 ---
 

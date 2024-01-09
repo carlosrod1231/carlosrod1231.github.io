@@ -1,6 +1,6 @@
 ---
 title: "Search Engine"
-excerpt: "Final Project for CSC220.<br/><img src='/images/search_engine.png'>"
+excerpt: "Final Project for CSC220.<br/>"
 collection: portfolio
 ---
 
