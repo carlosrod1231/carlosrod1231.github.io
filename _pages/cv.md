@@ -47,7 +47,7 @@ Skills
 
 Resume
 ======
-[Link to my Resume](/files/UPDATED_RESUME.pdf)
+[Link to my résumé](/files/UPDATED_RESUME.pdf)
 
 
 
