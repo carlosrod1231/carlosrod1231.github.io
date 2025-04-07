@@ -42,6 +42,7 @@ Skills
 ======
 * Java
 * Python
+* C
 * HTML and CSS
 * Mathematics
 
